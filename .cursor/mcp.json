@@ -1,0 +1,7 @@
+{
+	"mcpServers": {
+		"inngest-dev": {
+			"url": "https://workflow.alliedgulf.me/mcp"
+		}
+	}
+}
